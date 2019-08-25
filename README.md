@@ -67,13 +67,13 @@ Install dependancies that will create an environment for the app to run
 
 ## Run chmod a+x start.py
 
-bash
-chmod a+x start.py
+   bash
+   chmod a+x start.py
 
 ## Run the app
 
-bash
- ./start.sh
+   bash
+  ./start.sh
 
 ## Access the application through localhost:5000
 
