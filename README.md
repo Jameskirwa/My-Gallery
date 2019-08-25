@@ -51,7 +51,6 @@ source virtual/bin/activate
 
 Create a `.env` file and paste paste the following filling where appropriate:
 
-SECRET_KEY='342s(s(!hsjd998sde8$=o4$3m!(o+kce2^97kp6#ujhi'
 DEBUG=True #set to false in production
 DB_NAME='gallery'
 DB_USER='user'
